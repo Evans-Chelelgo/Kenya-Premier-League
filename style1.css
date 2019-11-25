@@ -1,19 +1,45 @@
 .body{
-    background-color:rgb(88, 102, 233);
+    background-color:rgb(238, 30, 117);
 }
 .footer {
   position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color:rgb(139, 136, 136);
-  color: white;
+  background-color:rgb(224, 204, 204);
   text-align: center;
 }
 .table table-bordered{
     text-align: center;
-    background-color: rgb(37, 34, 231);
+    background-color: rgb(238, 30, 117);
+    padding-top: 30px;
+    border-block: 50px;
 }
 .col-sm-8{
     padding-top: 10px;
+    background-image: url(download.jpeg);
+    filter: blur();
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:;
+}
+.container{
+    background-color: rgb(223, 161, 164);
+}
+.collapse navbar-collapse
+{
+    background-color: rgb(125, 125, 221);
+}
+.navbar-link
+{
+background-color: blue;
+
+}
+.
+.about{
+    height: 200px ;
+    width: 200px;
+    border: solid 3px;
+    background-color: crimson;
+}
 }
